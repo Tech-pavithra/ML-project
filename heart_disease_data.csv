@@ -1,0 +1,10 @@
+
+
+| Age          | Gender | FamilyHistory | Diet   | Lifestyle | Cholesterol | HeartDisease |
+|--------------|--------|---------------|--------|-----------|-------------|--------------|
+| MiddleAged   | Male   | Yes           | Medium | Moderate  | High        | Yes          |
+| SeniorCitizen| Female | No            | Low    | Sedatery  | Normal      | No           |
+| Youth        | Male   | Yes           | High   | Athlete   | BorderLine  | Yes          |
+| MiddleAged   | Female | No            | Low    | Sedatery  | High        | Yes          |
+| SeniorCitizen| Male   | Yes           | Medium | Active    | High        | Yes          |
+
